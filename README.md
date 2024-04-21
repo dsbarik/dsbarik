@@ -8,8 +8,8 @@ Hello! I'm **Dibya Sampad Barik**, a data science enthusiast with a postgraduate
 
 * 🌍  I'm based in Bhubaneswar, India
 * ✉️  You can contact me at [barikdibyasampad@gmail.com](mailto:barikdibyasampad@gmail.com)
-* 🧠  I'm currently learning **Data Analytics** from the course provided by **Google** on Coursera
-* 🤝  I'm open to collaborating on **Data Analysis**.
+* 🧠  I'm currently learning **Machine Learning** from various platforms as per availability of quality resources.
+* 🤝  I'm open to collaborate on **Data Analysis** and **Machine Learning**.
 
 ### 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
