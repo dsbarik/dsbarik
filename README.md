@@ -36,7 +36,7 @@ Applied AI & Data Science professional with an M.Sc. in Computer Science (Big Da
 ## Projects
 
 ### LLM-Based Reranking Framework
-- Architected a hybrid scoring system combining LLM NLL scores, Sentence-BERT embeddings, and Bayesian priors, improving **P@3 by 31%** and **P@5 by 49%**.
+- Architected a hybrid scoring system combining LLM NLL scores, Sentence-BERT embeddings, and Bayesian priors to produce user-conditioned rankings, yielding P@3 = 31% and P@5 = 49% under preference-aware evaluation.
 - Addressed token-limit constraints via per-item prompting, enabling scalable processing of large item catalogs.
 - Built an automated evaluation pipeline to monitor precision metrics across diverse user profiles.
 
