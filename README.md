@@ -11,7 +11,7 @@ Hello! I'm **Dibya Sampad Barik**, a data science enthusiast with a postgraduate
 * 🧠  I'm currently learning **Machine Learning** from various platforms as per availability of quality resources.
 * 🤝  I'm open to collaborate on **Data Analysis** and **Machine Learning**.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dsbarik&show_icons=true)
 
 
 <!--
