@@ -42,7 +42,7 @@ Applied AI & Data Science professional with an M.Sc. in Computer Science (Big Da
 
 ### RAG Research Assistant
 - Built a production-style local RAG pipeline using Ollama and ChromaDB for querying multiple PDFs while preserving data privacy.
-- Designed a modular document service syncing ChromaDB with a SQLModel/SQLite backend for real-time indexing and full document cleanup.
+- Designed a modular document service syncing ChromaDB with a SQLModel/SQLite backend for real-time indexing and document removal feature.
 - Implemented fallback retrieval logic when no relevant context is found.
 - Developed an interactive Gradio UI with dynamic document management and cleanup.
 
