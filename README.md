@@ -1,34 +1,73 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dibya Sampad Barik
-==========================================================================================================================================
+# Dibya Sampad Barik
+Applied AI & Data Science Professional
 
-<!-- 3 ⭐ Codechef -->
-------------
+📞 +91 93370 33239  
+✉️ barikdibyasampad@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/dsbarik)  
+📊 [Kaggle](https://kaggle.com/darkdevil18)
 
-Hello! I'm **Dibya Sampad Barik**, a data science enthusiast with a postgraduate degree in mathematics. Alongside my passion for data science and artificial intelligence, I thrive on tackling algorithmic challenges and honing my problem-solving skills on platforms like LeetCode and other coding platforms. With a solid foundation in mathematical principles and a knack for coding, I'm dedicated to leveraging these skills to drive innovation and make a positive impact. Let's connect and collaborate on meaningful projects at the nexus of data science, AI, and algorithmic problem-solving!
+---
 
-* 🌍  I'm based in Bhubaneswar, India
-* ✉️  You can contact me at [barikdibyasampad@gmail.com](mailto:barikdibyasampad@gmail.com)
-* 🧠  I'm currently learning **Machine Learning** from various platforms as per availability of quality resources.
-* 🤝  I'm open to collaborate on **Data Analysis** and **Machine Learning**.
+## Summary
+Applied AI & Data Science professional with an M.Sc. in Computer Science (Big Data Analytics) and Mathematics, specializing in LLM systems, recommendation engines, and privacy-focused RAG pipelines.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dsbarik&show_icons=true)
+---
 
+## Skills
 
-<!--
-### Socials
+**Languages:** Python, C++, SQL, MATLAB, R  
+**ML / AI:** PyTorch, TensorFlow, HuggingFace, LangChain, Scikit-learn, Sentence-Transformer  
+**Data & Tools:** NumPy, Pandas, FastAPI, Git, Linux, Jupyter  
+**Domains:** LLMs, RAG, NLP, Computer Vision, Recommendation Systems  
 
-<p align="left"> <a href="https://www.github.com/darkdevil18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dibyasampad_barik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dibya-sampad-barik-65a6a6202/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
--->
+---
 
+## Experience
 
-<!-- ### Badges -->
+### Indian Institute of Technology Bhilai  
+**Research Intern** · *Jun 2025 – Aug 2025*
 
-<!-- <b>My GitHub Stats</b>
+- Led end-to-end development of a personalized book recommendation system from research through deployment.
+- Designed a multi-stage reranking pipeline, improving **P@5 by 49%** over baseline models.
+- Conducted controlled experiments with statistical evaluation to validate robustness and refine prompting and priors.
 
-<a href="http://www.github.com/darkdevil18"><img src="https://github-readme-stats.vercel.app/api?username=darkdevil18&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="darkdevil18's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/darkdevil18"><img src="https://github-readme-streak-stats.herokuapp.com/?user=darkdevil18&stroke=ffffff&background=1c1917&ring=db0f1d&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## Projects
 
-<a href="http://www.github.com/darkdevil18"><img src="https://activity-graph.herokuapp.com/graph?username=darkdevil18&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### LLM-Based Reranking Framework
+- Architected a hybrid scoring system combining LLM NLL scores, Sentence-BERT embeddings, and Bayesian priors, improving **P@3 by 31%** and **P@5 by 49%**.
+- Addressed token-limit constraints via per-item prompting, enabling scalable processing of large item catalogs.
+- Built an automated evaluation pipeline to monitor precision metrics across diverse user profiles.
 
-<a href="https://github.com/darkdevil18" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkdevil18&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+### RAG Research Assistant
+- Built a production-style local RAG pipeline using Ollama and ChromaDB for querying multiple PDFs while preserving data privacy.
+- Designed a modular document service syncing ChromaDB with a SQLModel/SQLite backend for real-time indexing and full document cleanup.
+- Implemented fallback retrieval logic when no relevant context is found.
+- Developed an interactive Gradio UI with dynamic document management and cleanup.
+
+---
+
+## Education
+
+**Central University of Rajasthan**, Bandar Sindri, Ajmer, Rajasthan  
+*M.Sc. Computer Science (Big Data Analytics)* · **CGPA: 8.9/10** · *2024 – Present*  
+**Key Courses:** Machine Learning, Deep Learning, Time Series, Data Mining, Statistics, DSA, DBMS  
+
+**Central University of Jharkhand**, Ranchi, Jharkhand  
+*M.Sc. Mathematics* · **CGPA: 7.22/10** · *2021 – 2023*  
+**Key Courses:** Linear Algebra, Real Analysis, Probability, Differential Equations  
+
+---
+
+## Certifications
+- IBM AI Engineering (Coursera)
+- Google Data Analytics (Coursera)
+- Medical Image Processing by MathWorks (Coursera)
+
+---
+
+## Achievements
+- Kaggle: **Master (Notebook)**
+- **GATE:** DS & AI (2024), CS (2023)
+- **IIT JAM:** Mathematics (2021)
